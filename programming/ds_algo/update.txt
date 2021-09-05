@@ -1,0 +1,35 @@
+dsa
+https://practice.geeksforgeeks.org/courses/dsa-self-paced
+
+
+done
+
+introduction
+recursion
+arrays
+strings
+stack
+queue
+
+`````````````````````````````````````````````````````````````
+codeforcause:
+-------------------------------------------
+
+
+search - linear , binary
+sorting - selection , bubble , count , insertion
+2d array , rotataion 
+************************************************do questions
+strings  manupalataion
+sandwich thoerem , space complexity
+recursion & backtracking
+linked list
+hashing
+binary tree & binary search tree , avr tree *
+heap & hashmap *
+greedy*
+graphs * 
+dp - recursion & function *
+
+
+don't give more than 30 mins for one question. - solve it for 15 mins and after 30 mins 
